@@ -396,6 +396,11 @@ main {
         flex-direction: column;
         gap: 10px;
     }
+    #wifi-loader{
+      position: absolute;
+      left: 45%;
+      top: 3500px;
+    }
 }
 @media (min-width: 576px) {
     .gallery-img {
